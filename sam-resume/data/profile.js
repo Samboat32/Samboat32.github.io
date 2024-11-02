@@ -19,6 +19,7 @@ const profileData = {
     },
     {
       title: "Github",
+      src: "https://github.com/Samboat32",
       src: "https://github.com/imvpn22",
       iconClass: "fa-brands fa-github",
     },
